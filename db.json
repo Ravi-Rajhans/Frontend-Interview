@@ -117,6 +117,40 @@
       "date": "2025-12-10T16:30:00.000Z",
       "coverImage": "https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg",
       "content": "Ethics form the backbone of trust in financial systems. With increased automation and complex instruments, ethical judgment plays a crucial role in decision-making. Short-term gains achieved through unethical practices often lead to long-term damage.\n\nProfessionals must prioritize transparency, integrity, and accountability. Strong ethical frameworks protect not only clients but also the credibility of the profession.\n\nIn an era of rapid change, ethics remain a constant guiding principle."
+    },
+    {
+      "id": "a9d3",
+      "title": "techTnest Blogo Entrylogy",
+      "category": [
+        ""
+      ],
+      "description": "",
+      "coverImage": "",
+      "content": "",
+      "date": "2026-01-21T12:56:14.684Z"
+    },
+    {
+      "id": "18ed",
+      "title": "",
+      "category": [
+        ""
+      ],
+      "description": "",
+      "coverImage": "",
+      "content": "",
+      "date": "2026-01-21T12:59:50.946Z"
+    },
+    {
+      "id": "1218",
+      "title": "Test Blog Entry",
+      "category": [
+        "TEST",
+        "DEMO"
+      ],
+      "description": "This is a test blog created for verification",
+      "date": "2026-01-21",
+      "coverImage": "https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg",
+      "content": "This is test content for our demo blog post."
     }
   ]
 }
